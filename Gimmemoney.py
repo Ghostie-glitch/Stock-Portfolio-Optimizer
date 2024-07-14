@@ -67,7 +67,7 @@ def main():
     cov_matrix = log_returns.cov() * 252
 
     # Get the risk-free rate from the U.S. Treasury yield
-    fred = Fred(api_key='481abb187b8926d4de0d278bb5005e04')
+    fred = Fred(api_key='GET YUOR OWN')
     ten_year_treasury_rate = fred.get_series_latest_release('GS10') / 100
     risk_free_rate = ten_year_treasury_rate.iloc[-1]
 
