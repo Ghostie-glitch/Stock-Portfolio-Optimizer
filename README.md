@@ -10,4 +10,6 @@ How to use the code:
 
 2) if you are looking for US stocks then just the ticker will do. For example, Nivida is just NVDA
 
-3) the code is interactive so it will ask you questions and provide  instructions if you have half a brain follow it and the code will work just fine. 
+3) the code is interactive so it will ask you questions and provide  instructions if you have half a brain follow it and the code will work just fine.
+
+4) You will need an API Key to access the US treasury. Use this link. https://fred.stlouisfed.org/docs/api/api_key.html
